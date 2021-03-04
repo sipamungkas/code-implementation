@@ -1,7 +1,6 @@
 const divideAndSort = (number) => {
   if (typeof number !== "number") return "input harus berupa number";
-  number = number.toString();
-  const arrayOfNumber = number.split("0");
+  const arrayOfNumber = number.toString().split("0");
   const result = arrayOfNumber.map((num) =>
     num
       .split("")
@@ -13,3 +12,9 @@ const divideAndSort = (number) => {
 };
 
 console.log(divideAndSort(5956560159466056));
+
+// note:
+// line3, menampung hasil perubahan, tidak merubah parameter
+// nama variable di algoritma
+// penyesuain teks di dalam box flowchart
+//

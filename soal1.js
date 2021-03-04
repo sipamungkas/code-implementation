@@ -12,4 +12,7 @@ const palindom = (word) => {
     return "bukan palindom";
   }
 };
-console.log(palindom("malam"));
+console.log(palindom("alam"));
+
+// note
+// typo, palindom seharusnya palindrom
