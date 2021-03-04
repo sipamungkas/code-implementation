@@ -12,10 +12,12 @@ Soal 1 (soal1.js), membuat sebuah program untuk melakukan pengecekan apakah kata
 
 ### soal 2
 
-Soal 2 membuat sebuah program untuk membalik susunan kata dari sebuh kalimat tanpa menggunakan _method_/_built in function_ javascript
+Soal 2 (soal2.js) membuat sebuah program untuk membalik susunan kata dari sebuh kalimat tanpa menggunakan _method_/_built in function_ javascript
 
 ---
 
 ### soal 3
 
-Soal 3, membuat algoritma, flowchart, serta program menggunakan javascript (diperbolehkan menggunakan _method_/ _built in function_) untuk membagi dan mengurutkan sebuah baris angka berdasarkan angka 0, kemudian digabungkan kembali
+Soal 3 (folder soal3), membuat algoritma, flowchart, serta program menggunakan javascript (diperbolehkan menggunakan _method_/ _built in function_) untuk membagi dan mengurutkan sebuah baris angka berdasarkan angka 0, kemudian digabungkan kembali
+
+Folder soal3 berisi gambar algoritma dan gambar flowchart, serta file javascript dari program
